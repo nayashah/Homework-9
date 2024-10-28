@@ -1,5 +1,6 @@
 /**
- * Copyright 2024 Naya Shah
+ /**
+ * Copyright 2024 Naya Shah 
  * @license Apache-2.0, see LICENSE for full text.
  */
 import { LitElement, html, css } from "lit";
